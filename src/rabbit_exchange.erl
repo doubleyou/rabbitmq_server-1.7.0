@@ -96,7 +96,7 @@
 
 %%----------------------------------------------------------------------------
 
--define(INFO_KEYS, [name, type, durable, auto_delete, arguments].
+-define(INFO_KEYS, [name, type, durable, auto_delete, arguments]).
 
 recover() ->
     ok = rabbit_misc:table_foreach(
