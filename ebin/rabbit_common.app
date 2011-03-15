@@ -50,7 +50,7 @@
     tcp_client_sup,
     tcp_listener,
     tcp_listener_sup
-    ]}
+    ]},
   {registered, [rabbit_amqqueue_sup,
                 rabbit_log,
                 rabbit_node_monitor,
