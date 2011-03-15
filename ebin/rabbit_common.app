@@ -20,6 +20,7 @@
     rabbit_error_logger,
     rabbit_error_logger_file_h,
     rabbit_exchange,
+    rabbit_framing,
     rabbit_framing_channel,
     rabbit_guid,
     rabbit_heartbeat,
