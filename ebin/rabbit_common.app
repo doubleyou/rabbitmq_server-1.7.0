@@ -1,4 +1,4 @@
-{application, rabbit,		%% -*- erlang -*-
+{application, rabbit_common,		%% -*- erlang -*-
  [{description, "RabbitMQ"},
   {id, "RabbitMQ"},
   {vsn, "1.7.0"},
